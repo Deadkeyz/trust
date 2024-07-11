@@ -1,7 +1,7 @@
 { "name":"MELO",
   "symbol":"MTOKEN",
   "description":"Melo test token",
-  "image":" http://127.0.0.1:8080/ipfs/QmWk3hQw19ij6XC8UbHcahpp1i7FeaHNZjiK4c3AezJweE",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/trust/main/logog.png",
   "websites":[{"label":"Website","url":"https://melo.zeb"}],
   "socials":[{"url":"https://x.com/melo","type":"twitter"},
   {"url":"https://t.me/melo","type":"telegram"}]
